@@ -28,6 +28,6 @@
 
 [http://bit.ly/rad-crowd-exp1](http://bit.ly/rad-crowd-exp1)
 
-[http://bit.ly/rad-crowd-exp2](bit.ly/rad-crowd-exp2)
+[http://bit.ly/rad-crowd-exp2](http://bit.ly/rad-crowd-exp2)
 
-[http://bit.ly/rad-crowd-exp3](bit.ly/rad-crowd-exp3)
+[http://bit.ly/rad-crowd-exp3](http://bit.ly/rad-crowd-exp3)
