@@ -23,3 +23,11 @@
 ### S. Omo Nomadic Pastoralist HOT Task Manager Project  
 
 [http://tasks.hotosm.org/project/2883](http://tasks.hotosm.org/project/2883)
+
+### RAD-Crowd-Experiment HotOSM Projects:
+
+[http://bit.ly/rad-crowd-exp1](http://bit.ly/rad-crowd-exp1)
+
+[bit.ly/rad-crowd-exp2](bit.ly/rad-crowd-exp2)
+
+[bit.ly/rad-crowd-exp3](bit.ly/rad-crowd-exp3)
